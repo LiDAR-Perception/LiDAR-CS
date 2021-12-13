@@ -18,7 +18,7 @@ Extraction code: x6o2
 
 ## Data Sample
 
-![sample](figs/sample.jpg)
+![sample](sample.jpg)
 
 ## Getting Started
 
