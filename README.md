@@ -27,7 +27,7 @@ Uncompress all the compressed files, for example
 
 ```
 tar zxf VLD-16.tar.gz
-cat VLD-128.tar.gz* | tar -zxf
+cat VLD-128.tar.gz* | tar -zxf -
 ```
 
 All the file will be organized as,
