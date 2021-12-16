@@ -4,7 +4,7 @@
 
 **update**:
 
- We also provide point cloud data with different heights (1.0m, 1.5m, 2.0m, 2.5m, 3.0m).
+ We also provide point cloud data with different sensor heights (1.0m, 1.5m, 2.0m, 2.5m, 3.0m).
 
 ## Download
 
