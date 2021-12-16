@@ -11,7 +11,7 @@
 This is the official GitHub repository for LiDAR-CS dataset. 
 
 1. The download links can be found in `download_data.sh`
-2. We also support Baidu Yunpan. Link：[https://pan.baidu.com/s/1NyPziUeqfBSv6rgZBUspkQ](https://pan.baidu.com/s/1NyPziUeqfBSv6rgZBUspkQ) with extraction code: x6o2 
+2. We also support Baidu Yunpan. Link：[https://pan.baidu.com/s/1NyPziUeqfBSv6rgZBUspkQ](https://pan.baidu.com/s/1NyPziUeqfBSv6rgZBUspkQ) with extraction code: **x6o2** 
 
 
 
@@ -22,10 +22,14 @@ This is the official GitHub repository for LiDAR-CS dataset.
 ## Getting Started
 
 ### 1. Data Prepare
+
 Uncompress all the compressed files, for example
 
 ```
+# For the normal compressed file
 tar zxf VLD-16.tar.gz
+
+# For the compressed file which is split due to the size limitation
 cat VLD-128.tar.gz* | tar -zxf -
 ```
 
