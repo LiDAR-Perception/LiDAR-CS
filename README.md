@@ -8,11 +8,10 @@
 
 ## Download
 
-This is the official GitHub repository for LiDAR-CS dataset. Currently, the dataset is uploaded to Baidu Yunpan, and more ways will be supported in the future.
+This is the official GitHub repository for LiDAR-CS dataset. 
 
-Link：[https://pan.baidu.com/s/1NyPziUeqfBSv6rgZBUspkQ](https://pan.baidu.com/s/1NyPziUeqfBSv6rgZBUspkQ) 
-
-Extraction code: x6o2 
+1. The download links can be found in `download_data.sh`
+2. We also support Baidu Yunpan. Link：[https://pan.baidu.com/s/1NyPziUeqfBSv6rgZBUspkQ](https://pan.baidu.com/s/1NyPziUeqfBSv6rgZBUspkQ) with extraction code: x6o2 
 
 
 
