@@ -2,7 +2,7 @@
 
 **LiDAR** Dataset with **C**ross-**S**ensors (LiDAR-CS Dataset), which contains large-scale annotated LiDAR point cloud under 6 groups of different sensors but with the same correspondence scenarios, captured from hybrid realistic LiDAR simulator. As far as we know, LiDAR-CS Dataset is the first dataset focused on the sensor (e.g., the points distribution) domain gaps for 3D object detection in real traffic.
 
-**update**:
+**Update**:
 
  We also provide point cloud data with different sensor heights (1.0m, 1.5m, 2.0m, 2.5m, 3.0m).
 
@@ -97,15 +97,17 @@ types, labels = get_label(label_path)
 ## Changelog
 
 + **v1.0**: support 6 sensors, including VLD-16/32/64/128, Livox and ONCE-40
++ **v1.1**: support different sensor heights (1.0m, 1.5m, 2.0m, 2.5m, 3.0m) for VLD-64
 
 
 ## Citation
 If you find this dataset useful in your research, please consider cite:
 
+```
 @article{fang2023lidar,
   title={LiDAR-CS Dataset: LiDAR Point Cloud Dataset with Cross-Sensors for 3D Object Detection},
   author={Fang, Jin and Zhou, Dingfu and Zhao, Jingjing and Tang, Chulin and Xu, Cheng-Zhong and Zhang, Liangjun},
   journal={arXiv preprint arXiv:2301.12515},
   year={2023}
 }
-
+```
