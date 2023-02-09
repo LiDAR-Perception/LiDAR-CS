@@ -97,3 +97,15 @@ types, labels = get_label(label_path)
 ## Changelog
 
 + **v1.0**: support 6 sensors, including VLD-16/32/64/128, Livox and ONCE-40
+
+
+## Citation
+If you find this dataset useful in your research, please consider cite:
+
+@article{fang2023lidar,
+  title={LiDAR-CS Dataset: LiDAR Point Cloud Dataset with Cross-Sensors for 3D Object Detection},
+  author={Fang, Jin and Zhou, Dingfu and Zhao, Jingjing and Tang, Chulin and Xu, Cheng-Zhong and Zhang, Liangjun},
+  journal={arXiv preprint arXiv:2301.12515},
+  year={2023}
+}
+
