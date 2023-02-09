@@ -14,6 +14,7 @@ wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-64.tar.gz001
 wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-64.tar.gz002
 wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-64.tar.gz003
 
+wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-128.tar.gz000
 wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-128.tar.gz001
 wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-128.tar.gz002
 wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-128.tar.gz003
