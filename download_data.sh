@@ -6,6 +6,8 @@ wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/Livox.tar.gz003
 wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/ONCE-40.tar.gz000
 wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/ONCE-40.tar.gz001
 
+wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-16.tar.gz
+
 wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-32.tar.gz000
 wget https://ad-apolloscape.cdn.bcebos.com/LiDAR_CS/VLD-32.tar.gz001
 
